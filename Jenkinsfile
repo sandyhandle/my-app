@@ -28,7 +28,8 @@ pipeline {
               
                  //sh 'npm test'
                 echo 'New Commit'
-            
+           }    
+  }
   }
 //   stages {
 //     stage('Maven Build') {
